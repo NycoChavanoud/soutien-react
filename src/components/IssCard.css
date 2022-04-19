@@ -1,0 +1,24 @@
+.issContainer {
+  border: solid 2px orangered;
+  width: 50%;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 40px auto;
+}
+
+.btnToFetchIss {
+  margin: 20px auto;
+  background: #f1f1f1;
+  color: orangered;
+  font-size: 1em;
+  font-weight: bolder;
+  height: 50px;
+  border-radius: 1em;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+}
